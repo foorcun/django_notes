@@ -1,0 +1,3 @@
+img/asdf.png   degýl      appinadý/img/asdf.png  yapýcaz
+
+cunku býz statýc ýcýne app adýyla klasor acýp takýlýyorz
